@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi! 👋 I'm Zaqi.
 
-<!--
-**AhmadZaqi/ahmadzaqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.  
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Kotlin for Android Development
+- 💬 Feel free to ask me about Desktop Development or Web API Development using C# and .NET
+- 📫 How to reach me: ahmadzaqi490@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### Reach me on
+- <a href="www.linkedin.com/in/ahmad-zaqi-0677092b3">LinkedIn</a>
+- ahmadzaqi490@gmail.com
+- <a href="https://www.instagram.com/zaqi149/">Instagram</a>
