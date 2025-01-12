@@ -2,7 +2,7 @@
 
 Second grade student at SMKN 24 Jakarta. I've enjoyed Kotlin and make it the main language in creating a project.  
 
-- 🌱 I’m currently learning about Kotlin for Android Development
+- 🌱 I’m currently learning Kotlin especially in Jetpack Compose
 - 💬 Feel free to ask me about Desktop Development or Web API Development using C# and ASP .NET
 - 📫 How to reach me: ahmadzaqi490@gmail.com
 
