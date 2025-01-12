@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Zaqi.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.  
+Second grade student at SMKN 24 Jakarta. I've enjoyed Kotlin and make it the main language in creating a project.  
 
 - 🌱 I’m currently learning about Kotlin for Android Development
 - 💬 Feel free to ask me about Desktop Development or Web API Development using C# and ASP .NET
