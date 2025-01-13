@@ -16,4 +16,4 @@ Second grade student at SMKN 24 Jakarta. I am deeply passionate about Android ap
 ### Reach me on
 - <a href="www.linkedin.com/in/ahmad-zaqi-0677092b3">LinkedIn</a>
 - ahmadzaqi490@gmail.com
-- <a href="https://www.instagram.com/zaqi149/">Instagram</a>
+- <a href="https://www.instagram.com/ahmadzaqi._/">Instagram</a>
