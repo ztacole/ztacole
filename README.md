@@ -8,7 +8,7 @@ Second grade student at SMKN 24 Jakarta. I am deeply passionate about Android ap
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/ztacole">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ztacole&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ztacole&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ztacole&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
