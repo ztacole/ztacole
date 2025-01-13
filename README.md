@@ -1,9 +1,9 @@
 ## Hi! 👋 I'm Zaqi.
 
-Second grade student at SMKN 24 Jakarta. I've enjoyed Kotlin and make it the main language in creating a project.  
+Second grade student at SMKN 24 Jakarta. I am deeply passionate about Android application development, particularly using Kotlin. I also have strong skills in Desktop application development using C#.  
 
 - 🌱 I’m currently learning Kotlin especially in Jetpack Compose
-- 💬 Feel free to ask me about Desktop Development or Web API Development using C# and ASP .NET
+- 💬 Feel free to ask me about Desktop Development or Web API Development using C# and ASP .NET Core
 
 ### Github Statistic
 <p align="left">
