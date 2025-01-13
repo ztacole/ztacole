@@ -4,13 +4,12 @@ Second grade student at SMKN 24 Jakarta. I've enjoyed Kotlin and make it the mai
 
 - 🌱 I’m currently learning Kotlin especially in Jetpack Compose
 - 💬 Feel free to ask me about Desktop Development or Web API Development using C# and ASP .NET
-- 📫 How to reach me: ahmadzaqi490@gmail.com
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/ahmadzaqi">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AhmadZaqi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AhmadZaqi&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/ztacole">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ztacole&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ztacole&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
