@@ -3,7 +3,7 @@
 Second grade student at SMKN 24 Jakarta. I am deeply passionate about Android application development, particularly using Kotlin. I also have strong skills in Desktop application development using C#.  
 
 - 🌱 &nbsp; I’m currently learning Kotlin especially in Jetpack Compose.
-- 🤔 &nbsp; Currently focusing on mobile development.
+- 🤔 &nbsp; Currently focusing on Android development.
 - 💩 &nbsp; I hate web programming (front end).
 
 ### 🛠 &nbsp;Tech Stack
