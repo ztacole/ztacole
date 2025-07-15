@@ -2,8 +2,28 @@
 
 Second grade student at SMKN 24 Jakarta. I am deeply passionate about Android application development, particularly using Kotlin. I also have strong skills in Desktop application development using C#.  
 
-- 🌱 I’m currently learning Kotlin especially in Jetpack Compose
-- 💬 Feel free to ask me about Desktop Development or Web API Development using C# and ASP .NET Core
+- 🌱 &nbsp; I’m currently learning Kotlin especially in Jetpack Compose.
+- 🤔 &nbsp; Currently focusing on mobile development.
+- 💩 &nbsp; I hate web programming (front end).
+
+### 🛠 &nbsp;Tech Stack
+- 🌐 &nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=KOTLIN)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=purple)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=red)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+- 🛢 &nbsp;&nbsp;
+  ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=brown)
+  ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=blue)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=gold)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=jetbrains&logoColor=brown)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=purple)
 
 ### Github Statistic
 <p align="left">
