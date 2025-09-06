@@ -9,8 +9,9 @@ Second grade student at SMKN 24 Jakarta. I am deeply passionate about Android ap
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=KOTLIN)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=purple)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=red)
+  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 - 🛢 &nbsp;&nbsp;
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=brown)
